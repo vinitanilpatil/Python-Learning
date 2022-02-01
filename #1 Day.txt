@@ -27,6 +27,6 @@ Tip :- You can use **type()** function to print a variable's type
        There is a **str()** function to convert a float or integer into a string. Similarly there are two more functions - **int()** and **float()**
        Also there is a **input()** function to take input from the user
        
-       
+    
        
 That is all for today (bcoz i am a little bit lazy)
