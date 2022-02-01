@@ -1,0 +1,56 @@
+Date - 1/02/2022
+Day  - Tuesday
+
+Let's Start !
+
+#String Slicing :- Ex. mystr = "Vinit Is So Hardworking"
+                       print(mystr[0:5])
+                   Output = Vinit
+                   
+                   Ex. mystr = "Vinit Is So Lazy Actually !"
+                       print(mystr[0:5:2])
+                   Output = Vnt
+                   
+                   Ex. mystr = "The Last Example, Because You May Have Read Above Examples.."
+                       print(mystr[::2])
+                   Output = TeLs xml,BcueYuMyHv edAoeEape.
+                   
+                   Ex. mystr = "Aah This is Too boring there are more examples."
+                       print(mystr[-4:-2])
+                   Output = le
+                   
+                   Alright I Will Make This Easy
+                   
+                                                                                               Positive :- 0123456
+                   For Example This Is Your String, See Thier Number Of Positions (Negative & Positive) :- Hey, Hi
+                                                                                               Negative :- 7654321
+                                                                                               
+                   Note That The Below Numbers Are Negative If You Are Going To Use Those Add A Minus Sign Before Them Like This -2, -3, -6.
+                   
+                   
+                   
+Related Functions = len() - shows the length of string in integer (counting starts from 0)
+                    isalnum() - returns false if there are spaces in your integer and true if there are not.
+                    isalpha() - returns false if there are spaces in your string and true if there are not.
+                    endsWith() - Lemme Tell You This With An Quick Example :- str = "This Is An Example"
+                                                                              print(str.endsWith("Example"))
+                                                                    Output :- true
+                    startsWith() - Lemme Tell You This One Also With An Quick Example :- str = "This Is An Example No.2"
+                                                                                         print(str.startsWith("This"))
+                                                                               Output :- true
+                    count() - Ex. str = "Examples are the best thing lol"
+                                  print(str.count("e"))
+                        Output :- 3
+                        
+                    capitalize() - Capitalizes The First Letter Of String
+                    find() - Returns the position number where the alphabet starts which you want to find (write the string or alphabet in these paranthesis which you want to find)
+                    lower() - Makes The Whole String Lowercase
+                    upper() - Makes The Whole String Uppercase
+                    replace() - Ex. str = "Typing Gets Boring Sometimes.."
+                                    print(str.replace("Gets", "is getting"))
+                          Output :- Typing is getting Boring Sometimes..
+                          
+                    There are more functions related to string you can see them by.. just type python string methods in google i am not gonna waste my whole day in just typing.
+                    
+                    
+                    Bye !
