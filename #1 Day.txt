@@ -1,0 +1,32 @@
+Date - 27/01/2022
+Day  - Thursday
+
+Let's Start !
+
+#Comments :- Single line comment tag   = # this is a single line comment
+             Multiple line comment tag = """ This is a multi line comment (maybe i didn't wrote it as multi line lol) """
+             
+[I will not explain everything, but i will provide examples that explains more than my words. Uf why am i writing this much when i know only i am the one who's gonna read this !]
+
+                                                   ----------------------------------
+                                                  |Example = print("Hello" end="! ") |
+                                                  |          print("How are you ?")  |
+                                                  |                                  |
+                                                  |Output  = Hello! How are you ?    |
+                                                   ----------------------------------
+
+#Escape Sequences :- 1) \n  = To make a new line
+                    2) \\n = If you want to display \n
+                    3) \t  = leave a tab (space)
+                    
+#DataTypes :- 1) Boolean       = True or False
+              2) Integer [int] = 1,2,3.....
+              3) Float         = 1.5, 3.7, 5.6.....
+              4) String [str]  = "This is a string"
+Tip :- You can use **type()** function to print a variable's type
+       There is a **str()** function to convert a float or integer into a string. Similarly there are two more functions - **int()** and **float()**
+       Also there is a **input()** function to take input from the user
+       
+       
+       
+That is all for today (bcoz i am a little bit lazy)
