@@ -1,0 +1,42 @@
+Date - 7/02/2022
+Day  - Monday
+
+Let's Start !
+
+# Lists :- 
+
+           Ex. fruits = ["Apple", "Mango", "Banana", "Strawberry", "Pineapple"]
+               print(fruits)
+     Output :- ["Apple", "Mango", "Banana", "Strawberry", "Pineapple"]
+     
+           Ex. fruits = ["Apple", "Mango", "Banana", "Strawberry", "Pineapple"]
+               print(fruits[1])
+     Output :- Mango
+     
+     
+           It Should Have Output Apple Above Shouldn't it ?
+           That's Because Counting Starts From 0 In Python
+           Apple's Position Is 0 And Mango's Is 1 (Mango Is My Fav Fruit BTW)
+           
+           
+Related Function = sort() - Ex. num = [12, 3, 5, 2, 16]
+                                num.sort()
+                                print(num)
+                      Output :- [2, 3, 5, 12, 16]
+                      
+                   reverse() - reverses the whole list
+                   max() - Prints Biggest Numbers From The List
+                   min() - Prints Smallest Numbers From The List
+                   append() - adds the given value at the end of the list
+                   insert() - adds the given value at the given position....  Usage = listName.insert(position, value)
+                   remove() - removes the given value from the list (Works Only If The Given Value Is Available In The List)
+                   pop() - removes the last element from the list
+                   
+                   
+Tip = Lists Are Mutable Means You Can Change Them But Tuples Are Immutable You Cannot Change Them, To Make Tuple Just Use () Instead Of []
+
+                  
+                  To Know More List Related Functions Just Search It In Google Coz I Am A Bit Lazy As You Know...,
+                  
+                  
+                  Bye !
