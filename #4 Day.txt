@@ -1,0 +1,55 @@
+Date :- 08-02-2022
+Day  :- Tuesday
+
+
+# Dictionary & It's Functions :-
+                                To make a dictionary = Ex. d1 = {"Vinit":"Burger", "Rohan":"Fish", "Rohit":"Roti"}
+                                                           print(d1["Vinit"])
+                                                 Output :- Burger
+                                                 
+                                Nested Dictionary = Ex. d1 = {"Vinit":{"Lunch":"Burger", "Dinner":"CheeseBurger"}} (Coz I Like Burgers hehe)
+                                                        print(d1["Vinit"]["Dinner"])
+                                              Output :- CheeseBurger
+                                              
+                                Removing An Element From Dictionary = del d1["Vinit"]         (This Will Delete Element "Vinit" From List)
+                                
+                                Adding Element To A Dictionary = dictionaryName.update({"Element":"Value"})
+                                
+                                To Just Display The Elements  = dictionaryName.keys() & .items() To Display The Values...
+                                
+                                
+# If, Elif, Else :-
+                    I Am Going To Explain This Whole Thing With Only Examples (And A Same Example) ........ Coz I Don't Like To Talk More
+                    
+                    // These Are Three Variables I Will Be Using In This Whole If Else Thing
+                Ex. first = 6
+                    second = 78
+                    inp = input()
+                    
+      Condition :-  if inp > first:
+      Statement :-      print("Greater")
+                    else:                                              PS :- To Write A Statement Always Leave A Tab Of Space Or Error Will Occur 
+                        print("Smaller")                                     That Greater Than Sign Is Called An Operator (Maybe) There Are More Operators
+         
+         
+          OPERATORS == 1] "="  = Assignment Operator (Actually I Don't Know What It Does)
+                       2] "==" = Is Equal To
+                       3] "=>" = Equal To OR Greator Than
+                       4] "<=" = Equal To OR Lesser Than
+                       5] "|"  = OR
+                       6] "!=" = Not Equal To
+                       7] "&"  = And
+                       8] "%"  = Modulus (Divides The Given Two Numbers & Return Remainder)
+                       9] "/"  = Divide
+                      10] "*"  = Multiply
+                      11] "+"  = Add
+                      12] "-"  = Substract
+                      
+                      These Are Only Some Of Those Which I Knew I Think There Are 2-3 More
+                      Just Search It In Google (Coz U Know I Am A Bit Lazy Right ?)
+                      
+                      
+                      Bye !
+                        
+                        
+                    
